@@ -4,11 +4,11 @@
 //
 
 // Do not edit directly
-// Generated on Wed, 29 Jun 2022 20:48:22 GMT
+// Generated on Thu, 30 Jun 2022 17:24:29 GMT
 
 
 import UIKit
 
 public enum StyleDictionaryColor {
-    public static let colorBlue = UIColor(red: 0.086, green: 0.612, blue: 0.992, alpha: 1)
+    public static let colorBlue = UIColor(red: 0.757, green: 0.996, blue: 0.522, alpha: 1)
 }
